@@ -1,4 +1,4 @@
-# TP-1-BIOESTADISTICA: Manejo de datos
+# TP1_BIOESTADISTICA: Manejo de datos
 
 ## Objetivo
 
